@@ -12,7 +12,7 @@
 # Spoofify-Client
 A Spotify-focused Now Playing Overlay & Queue Management Twitch bot by [ducky](https://ducky.wiki)
 
-**[Documentation](https://docs.ducky.wiki)** | **[duckyyylol/Spoofify](https://github.com/duckyyylol/Spoofify)** | **[Developer Contact](https://ducky.wiki)**
+**[Documentation](https://docs.ducky.wiki/projects/spoofify)** | **[duckyyylol/Spoofify](https://github.com/duckyyylol/Spoofify)** | **[Developer Contact](https://ducky.wiki)**
 
 ---
 
